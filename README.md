@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramesh.
 
-I'm a passionate developer with experience in **Java** and **Python**, and hands-on work using **Spring Boot**, **Flask**, and **Django** frameworks. Currently, I'm pursuing  Data Software Engineering, where I'm diving deeper into the world of data, cloud, and scalable systems.
+I'm a passionate engineer with experience in **Java** and **Python**, and hands-on work using **Spring Boot**, **Flask**, and **Django** frameworks. Currently, I'm pursuing  Data Software Engineering, where I'm diving deeper into the world of data, cloud, and scalable systems.
 
 ## 🔧 Skills & Tools
 - **Languages:** Java, Python,C++, C, Go 
