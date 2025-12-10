@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ramesh.
 
-I'm a passionate engineer with experience in **Java** and **Python**, and hands-on work using **Spring Boot**, **Flask**, and **Django** frameworks. Currently, I'm pursuing  Data Software Engineering, where I'm diving deeper into the world of data, cloud, and scalable systems.
+I'm a passionate engineer pursuing  Data Software Engineering, where I'm diving deeper into backend Big data engineering.
 
 ## 🔧 Skills & Tools
-- **Languages:** Java, Python,C++, C, Go 
-- **Frameworks:** Spring Boot, Flask, Django  
-- **Cloud Platforms:** AWS, Azure, GCP  
-- **Focus Areas:** Data Engineering, Software Development
+- **Languages:** Java, Python,C++, C
+- **Frameworks:** Spring Boot, Django  
+- **Cloud Platforms:** AWS 
+- **Focus Areas:** Data Engineering, Software engineering 
 
 ## 🚀 What I'm Up To
 - Learning data systems and infrastructre
@@ -14,7 +14,7 @@ I'm a passionate engineer with experience in **Java** and **Python**, and hands-
 - Diving into digital infrastructure
 
 ## 🌱 Interests
-I'm curious about how different sectors can benefit from data-driven software, intelligent systems, resilient secure & scalable digital infrasturcture.
+Solving business problems with data-driven software, intelligent systems, resilient secure & scalable digital infrasturcture.
 
 Thanks for visiting my profile! 🚀
 
